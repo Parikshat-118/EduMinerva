@@ -1,0 +1,20 @@
+{
+  "name": "eduminerva-skill-circle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive learning event experience, from HTML and CSS to interactive JavaScript.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs --dist",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "playwright test",
+    "editions": "node scripts/create-editions.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}

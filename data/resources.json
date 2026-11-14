@@ -1,0 +1,6 @@
+[
+  {"id":"html","week":1,"type":"HTML","title":"Your first building blocks","description":"Semantic structure, links, images and forms. Start with the bones of the web.","label":"HTML full course","url":"https://youtu.be/k2DSi1zGEc8?si=zBGK20-TDC12-AG8","color":"orange","icon":"</>"},
+  {"id":"css","week":1,"type":"CSS","title":"Give your ideas a little style","description":"From the box model to flexible layouts, responsive grids and motion.","label":"CSS full course","url":"https://youtu.be/Edsxf_NBFrw?si=68JY1Ntcn9b72lTg","color":"blue","icon":"{ }"},
+  {"id":"devtools","week":1,"type":"TOOLS","title":"Look under the hood","description":"Inspect real websites, test your layouts and find out why that div moved.","label":"Chrome DevTools tutorial","url":"https://youtu.be/gTVpBbFWry8?si=5ztNJij1g2uAfK3w","color":"green","icon":"⌘"},
+  {"id":"javascript","week":2,"type":"JAVASCRIPT","title":"Make something happen","description":"Functions, the DOM, events and async JavaScript. Bring your page to life.","label":"JavaScript full course","url":"https://youtu.be/rfObCuGLSek?si=OcXiucEplHtE-kt_","color":"yellow","icon":"JS"}
+]
